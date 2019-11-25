@@ -123,3 +123,4 @@ function turnHoursToMinutes(movieList) {
     })
     return changedDuration;
 }
+// Bonus
