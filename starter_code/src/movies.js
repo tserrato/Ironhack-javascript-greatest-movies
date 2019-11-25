@@ -50,7 +50,6 @@ function orderAlphabetically(newArray){
     
 
 }
-
 // Iteration 4: All rates average - Get the average of all rates with 2 decimals
 
 function ratesAverage(movieList) {
